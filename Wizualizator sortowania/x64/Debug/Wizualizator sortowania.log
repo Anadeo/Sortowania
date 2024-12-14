@@ -1,0 +1,6 @@
+﻿  Źródło.cpp
+C:\Users\KOMPUTER\source\repos\Wizualizator sortowania\Wizualizator sortowania\Źródło.cpp(71,14): warning C4101: "pytanie": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\KOMPUTER\source\repos\Wizualizator sortowania\Wizualizator sortowania\Źródło.cpp(540,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\KOMPUTER\source\repos\Wizualizator sortowania\Wizualizator sortowania\Źródło.cpp(555,20): warning C4805: "==": niebezpieczne połączenie typu "bool" oraz typu "int" w operacji
+C:\Users\KOMPUTER\source\repos\Wizualizator sortowania\Wizualizator sortowania\Źródło.cpp(645,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Wizualizator sortowania.vcxproj -> C:\Users\KOMPUTER\source\repos\Wizualizator sortowania\x64\Debug\Wizualizator sortowania.exe
